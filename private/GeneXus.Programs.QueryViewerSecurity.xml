@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects xmlns="qv">
+  <Object name="Login" securityLevel="SecurityNone" permissionPrefix="Login" xmlns="qv" />
+</Objects>

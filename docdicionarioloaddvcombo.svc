@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.docdicionarioloaddvcombo_services,docdicionarioloaddvcombo" %>

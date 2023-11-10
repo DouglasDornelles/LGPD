@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///D:/GeneXus/Genexus17U11/</Path>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>WWPBaseObjects.UserCustomizations</ObjName>
+      <ObjDesc>WWPBaseObjects.User Custom</ObjDesc>
+      <ObjLink>wwpbaseobjects.usercustomizations.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>DocImagem</ObjName>
+      <ObjDesc>Doc Imagem</ObjDesc>
+      <ObjLink>docimagem.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Login</ObjName>
+      <ObjDesc>Login</ObjDesc>
+      <ObjLink>login.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMNotAuthorized</ObjName>
+      <ObjDesc>Not Authorized</ObjDesc>
+      <ObjLink>gamnotauthorized.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMHome</ObjName>
+      <ObjDesc>Início</ObjDesc>
+      <ObjLink>gamhome.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMRegisterUser</ObjName>
+      <ObjDesc>Register user</ObjDesc>
+      <ObjLink>gamregisteruser.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMSSOLogin</ObjName>
+      <ObjDesc>Single Sign-On</ObjDesc>
+      <ObjLink>gamssologin.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Home</ObjName>
+      <ObjDesc>Inicio</ObjDesc>
+      <ObjLink>home.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMWWApplications</ObjName>
+      <ObjDesc>Aplicações</ObjDesc>
+      <ObjLink>gamwwapplications.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMWWAuthTypes</ObjName>
+      <ObjDesc>Tipos de autenticação</ObjDesc>
+      <ObjLink>gamwwauthtypes.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMChangeRepository</ObjName>
+      <ObjDesc>Alterar repositório</ObjDesc>
+      <ObjLink>gamchangerepository.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMChangeYourPassword</ObjName>
+      <ObjDesc>Alterar minha senha</ObjDesc>
+      <ObjLink>gamchangeyourpassword.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMWWConnections</ObjName>
+      <ObjDesc>Conexões</ObjDesc>
+      <ObjLink>gamwwconnections.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMWWUsers</ObjName>
+      <ObjDesc>Usuários</ObjDesc>
+      <ObjLink>gamwwusers.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMWWRepositories</ObjName>
+      <ObjDesc>Repositórios</ObjDesc>
+      <ObjLink>gamwwrepositories.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMWWRoles</ObjName>
+      <ObjDesc>Perfis</ObjDesc>
+      <ObjLink>gamwwroles.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMWWSecurityPolicy</ObjName>
+      <ObjDesc>Políticas de segurança</ObjDesc>
+      <ObjLink>gamwwsecuritypolicy.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMWWEventSubscriptions</ObjName>
+      <ObjDesc>Subscrições a eventos</ObjDesc>
+      <ObjLink>gamwweventsubscriptions.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMConfiguration</ObjName>
+      <ObjDesc>GAM Configuration</ObjDesc>
+      <ObjLink>gamconfiguration.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>PaisWW</ObjName>
+      <ObjDesc> Pais</ObjDesc>
+      <ObjLink>paisww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>InformacaoWW</ObjName>
+      <ObjDesc> Informacao</ObjDesc>
+      <ObjLink>informacaoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>HipoteseTratamentoWW</ObjName>
+      <ObjDesc> Hipotese Tratamento</ObjDesc>
+      <ObjLink>hipotesetratamentoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>CompartTercExternoWW</ObjName>
+      <ObjDesc> Compart Terc Externo</ObjDesc>
+      <ObjLink>comparttercexternoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DocDicionarioWW</ObjName>
+      <ObjDesc> Doc Dicionario</ObjDesc>
+      <ObjLink>docdicionarioww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>PersonaWW</ObjName>
+      <ObjDesc> Persona</ObjDesc>
+      <ObjLink>personaww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>ControladorWW</ObjName>
+      <ObjDesc> Controlador</ObjDesc>
+      <ObjLink>controladorww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>EncarregadoWW</ObjName>
+      <ObjDesc> Encarregado</ObjDesc>
+      <ObjLink>encarregadoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>ProcessoWW</ObjName>
+      <ObjDesc> Processo</ObjDesc>
+      <ObjLink>processoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>CategoriaWW</ObjName>
+      <ObjDesc> Categoria</ObjDesc>
+      <ObjLink>categoriaww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>TipoDadoWW</ObjName>
+      <ObjDesc> Tipo Dado</ObjDesc>
+      <ObjLink>tipodadoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>FerramentaColetaWW</ObjName>
+      <ObjDesc> Ferramenta Coleta</ObjDesc>
+      <ObjLink>ferramentacoletaww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>FrequenciaTratamentoWW</ObjName>
+      <ObjDesc> Frequencia Tratamento</ObjDesc>
+      <ObjLink>frequenciatratamentoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>OperadorWW</ObjName>
+      <ObjDesc> Operador</ObjDesc>
+      <ObjLink>operadorww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>TipoDescarteWW</ObjName>
+      <ObjDesc> Tipo Descarte</ObjDesc>
+      <ObjLink>tipodescarteww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>TempoRetencaoWW</ObjName>
+      <ObjDesc> Tempo Retencao</ObjDesc>
+      <ObjLink>temporetencaoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>MedidaSegurancaWW</ObjName>
+      <ObjDesc> Medida Seguranca</ObjDesc>
+      <ObjLink>medidasegurancaww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>EnvolvidosColetaWW</ObjName>
+      <ObjDesc> Envolvidos Coleta</ObjDesc>
+      <ObjLink>envolvidoscoletaww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>CompartInternoWW</ObjName>
+      <ObjDesc> Compart Interno</ObjDesc>
+      <ObjLink>compartinternoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>SetorInternoWW</ObjName>
+      <ObjDesc> Setor Interno</ObjDesc>
+      <ObjLink>setorinternoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>FonteRetencaoWW</ObjName>
+      <ObjDesc> Fonte Retencao</ObjDesc>
+      <ObjLink>fonteretencaoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DocumentoWW</ObjName>
+      <ObjDesc> Documento</ObjDesc>
+      <ObjLink>documentoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DocOperadorWW</ObjName>
+      <ObjDesc>Tela de consulta dos registros de Operador por Documento</ObjDesc>
+      <ObjLink>docoperadorww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DocEnvolvidosColetaWW</ObjName>
+      <ObjDesc>Tela de consulta dos registros de Envolvidos Coleta por Documento</ObjDesc>
+      <ObjLink>docenvolvidoscoletaww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DocCompartInternoWW</ObjName>
+      <ObjDesc>Tela de consulta dos registros de Compartilhamento Interno por Documento</ObjDesc>
+      <ObjLink>doccompartinternoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DocSetorInternoWW</ObjName>
+      <ObjDesc> Tela de consulta dos registros de Setor Interno por Documento</ObjDesc>
+      <ObjLink>docsetorinternoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DocFonteRetencaoWW</ObjName>
+      <ObjDesc> Doc Fonte Retencao</ObjDesc>
+      <ObjLink>docfonteretencaoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DocAnexoWW</ObjName>
+      <ObjDesc> Doc Anexo</ObjDesc>
+      <ObjLink>docanexoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>SubProcessoWW</ObjName>
+      <ObjDesc> Sub Processo</ObjDesc>
+      <ObjLink>subprocessoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DicionarioCompartTercExtWW</ObjName>
+      <ObjDesc> Dicionario Compart Terc Ext</ObjDesc>
+      <ObjLink>dicionariocomparttercextww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>AreaResponsavelWW</ObjName>
+      <ObjDesc> Area Responsavel</ObjDesc>
+      <ObjLink>arearesponsavelww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>ParametroWW</ObjName>
+      <ObjDesc> Parametro</ObjDesc>
+      <ObjLink>parametroww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>TooltipWW</ObjName>
+      <ObjDesc>Tela de consulta dos registros de Tooltip</ObjDesc>
+      <ObjLink>tooltipww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>TelaWW</ObjName>
+      <ObjDesc>Tela de consulta dos registros de Tela</ObjDesc>
+      <ObjLink>telaww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>CampoWW</ObjName>
+      <ObjDesc>Tela de consulta dos registros de Campo para Tooltip</ObjDesc>
+      <ObjLink>campoww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>AbrangenciaGeograficaWW</ObjName>
+      <ObjDesc> Abrangencia Geografica</ObjDesc>
+      <ObjLink>abrangenciageograficaww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>RevisaoLogWW</ObjName>
+      <ObjDesc> Revisao Log</ObjDesc>
+      <ObjLink>revisaologww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DocMedidaSegurancaWW</ObjName>
+      <ObjDesc> Doc Medida Seguranca</ObjDesc>
+      <ObjLink>docmedidasegurancaww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>DicionarioPaisWW</ObjName>
+      <ObjDesc> Dicionario Pais</ObjDesc>
+      <ObjLink>dicionariopaisww.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>PaisWWExportReport</ObjName>
+      <ObjDesc>Pais WWExport Report</ObjDesc>
+      <ObjLink>paiswwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>InformacaoWWExportReport</ObjName>
+      <ObjDesc>Informacao WWExport Report</ObjDesc>
+      <ObjLink>informacaowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>HipoteseTratamentoWWExportReport</ObjName>
+      <ObjDesc>Hipotese Tratamento WWExport Report</ObjDesc>
+      <ObjLink>hipotesetratamentowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>CompartTercExternoWWExportReport</ObjName>
+      <ObjDesc>Compart Terc Externo WWExport Report</ObjDesc>
+      <ObjLink>comparttercexternowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DocDicionarioWWExportReport</ObjName>
+      <ObjDesc>Doc Dicionario WWExport Report</ObjDesc>
+      <ObjLink>docdicionariowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>PersonaWWExportReport</ObjName>
+      <ObjDesc>Persona WWExport Report</ObjDesc>
+      <ObjLink>personawwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>ControladorWWExportReport</ObjName>
+      <ObjDesc>Controlador WWExport Report</ObjDesc>
+      <ObjLink>controladorwwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>EncarregadoWWExportReport</ObjName>
+      <ObjDesc>Encarregado WWExport Report</ObjDesc>
+      <ObjLink>encarregadowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>ProcessoWWExportReport</ObjName>
+      <ObjDesc>Processo WWExport Report</ObjDesc>
+      <ObjLink>processowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>CategoriaWWExportReport</ObjName>
+      <ObjDesc>Categoria WWExport Report</ObjDesc>
+      <ObjLink>categoriawwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>TipoDadoWWExportReport</ObjName>
+      <ObjDesc>Tipo Dado WWExport Report</ObjDesc>
+      <ObjLink>tipodadowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>FerramentaColetaWWExportReport</ObjName>
+      <ObjDesc>Ferramenta Coleta WWExport Report</ObjDesc>
+      <ObjLink>ferramentacoletawwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>FrequenciaTratamentoWWExportReport</ObjName>
+      <ObjDesc>Frequencia Tratamento WWExport Report</ObjDesc>
+      <ObjLink>frequenciatratamentowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>OperadorWWExportReport</ObjName>
+      <ObjDesc>Operador WWExport Report</ObjDesc>
+      <ObjLink>operadorwwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>TipoDescarteWWExportReport</ObjName>
+      <ObjDesc>Tipo Descarte WWExport Report</ObjDesc>
+      <ObjLink>tipodescartewwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>TempoRetencaoWWExportReport</ObjName>
+      <ObjDesc>Tempo Retencao WWExport Report</ObjDesc>
+      <ObjLink>temporetencaowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>MedidaSegurancaWWExportReport</ObjName>
+      <ObjDesc>Medida Seguranca WWExport Report</ObjDesc>
+      <ObjLink>medidasegurancawwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>EnvolvidosColetaWWExportReport</ObjName>
+      <ObjDesc>Envolvidos Coleta WWExport Report</ObjDesc>
+      <ObjLink>envolvidoscoletawwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>CompartInternoWWExportReport</ObjName>
+      <ObjDesc>Compart Interno WWExport Report</ObjDesc>
+      <ObjLink>compartinternowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>SetorInternoWWExportReport</ObjName>
+      <ObjDesc>Setor Interno WWExport Report</ObjDesc>
+      <ObjLink>setorinternowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>FonteRetencaoWWExportReport</ObjName>
+      <ObjDesc>Fonte Retencao WWExport Report</ObjDesc>
+      <ObjLink>fonteretencaowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DocAnexoWWExportReport</ObjName>
+      <ObjDesc>Doc Anexo WWExport Report</ObjDesc>
+      <ObjLink>docanexowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DocCompartInternoWWExportReport</ObjName>
+      <ObjDesc>Doc Compart Interno WWExport Report</ObjDesc>
+      <ObjLink>doccompartinternowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DocEnvolvidosColetaWWExportReport</ObjName>
+      <ObjDesc>Doc Envolvidos Coleta WWExport Report</ObjDesc>
+      <ObjLink>docenvolvidoscoletawwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DocFonteRetencaoWWExportReport</ObjName>
+      <ObjDesc>Doc Fonte Retencao WWExport Report</ObjDesc>
+      <ObjLink>docfonteretencaowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DocOperadorWWExportReport</ObjName>
+      <ObjDesc>Doc Operador WWExport Report</ObjDesc>
+      <ObjLink>docoperadorwwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DocSetorInternoWWExportReport</ObjName>
+      <ObjDesc>Doc Setor Interno WWExport Report</ObjDesc>
+      <ObjLink>docsetorinternowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>SubProcessoWWExportReport</ObjName>
+      <ObjDesc>Sub Processo WWExport Report</ObjDesc>
+      <ObjLink>subprocessowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DocOperadorGridExportReport</ObjName>
+      <ObjDesc>Doc Operador Grid Export Report</ObjDesc>
+      <ObjLink>docoperadorgridexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DicionarioCompartTercExtWWExportReport</ObjName>
+      <ObjDesc>Dicionario Compart Terc Ext WWExport Report</ObjDesc>
+      <ObjLink>dicionariocomparttercextwwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>AreaResponsavelWWExportReport</ObjName>
+      <ObjDesc>Area Responsavel WWExport Report</ObjDesc>
+      <ObjLink>arearesponsavelwwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>ParametroWWExportReport</ObjName>
+      <ObjDesc>Parametro WWExport Report</ObjDesc>
+      <ObjLink>parametrowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>TelaWWExportReport</ObjName>
+      <ObjDesc>Tela WWExport Report</ObjDesc>
+      <ObjLink>telawwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>CampoWWExportReport</ObjName>
+      <ObjDesc>Campo WWExport Report</ObjDesc>
+      <ObjLink>campowwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>TooltipWWExportReport</ObjName>
+      <ObjDesc>Tooltip WWExport Report</ObjDesc>
+      <ObjLink>tooltipwwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>AbrangenciaGeograficaWWExportReport</ObjName>
+      <ObjDesc>Abrangencia Geografica WWExport Report</ObjDesc>
+      <ObjLink>abrangenciageograficawwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>RevisaoLogWWExportReport</ObjName>
+      <ObjDesc>Revisao Log WWExport Report</ObjDesc>
+      <ObjLink>revisaologwwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DocMedidaSegurancaWWExportReport</ObjName>
+      <ObjDesc>Doc Medida Seguranca WWExport Report</ObjDesc>
+      <ObjLink>docmedidasegurancawwexportreport.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>DicionarioPaisWWExportReport</ObjName>
+      <ObjDesc>Dicionario Pais WWExport Report</ObjDesc>
+      <ObjLink>dicionariopaiswwexportreport.aspx</ObjLink>
+   </Object>
+</Objects>

@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.temporetencaowwgetfilterdata_services,temporetencaowwgetfilterdata" %>

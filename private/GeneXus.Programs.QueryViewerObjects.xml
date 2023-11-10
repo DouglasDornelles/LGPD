@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects xmlns="qv">
+  <Object name="WWPBaseObjects.GetSomeHomeModulesSample" id="1" type="DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.WWP_LoadTreeViewSampleData" id="2" type="DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.GetHomeModulesSample" id="3" type="DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.GetMainHomeModulesSample" id="4" type="DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.SecGAMGetAdvancedSecurityWWPFunctionalities" id="5" type="DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.MenuOptionsData" id="6" type="DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.MenuOptionsDataCopy1" id="7" type="DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="DocumentoAtivoQuery" id="1" type="Query" xmlns="qv">
+    <DefaultOutput type="OutputTypeCard" xmlns="qv" />
+  </Object>
+  <Object name="DocumentoInativoQuery" id="2" type="Query" xmlns="qv">
+    <DefaultOutput type="OutputTypeCard" xmlns="qv" />
+  </Object>
+</Objects>

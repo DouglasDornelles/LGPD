@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.frequenciatratamentowwgetfilterdata_services,frequenciatratamentowwgetfilterdata" %>

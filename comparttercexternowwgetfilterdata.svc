@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.comparttercexternowwgetfilterdata_services,comparttercexternowwgetfilterdata" %>
